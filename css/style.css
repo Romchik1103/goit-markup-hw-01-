@@ -1,0 +1,61 @@
+:root {
+  --main-title-color: #ffffff;
+  --second-title-color: #212121;
+  --first-text-color: #757575;
+  --second-text-color: rgba(255, 255, 255, 0.6);
+  --first-button-color: #2196f3;
+}
+body {
+  font-family: Roboto, sans-serif;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+.header-logo {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.header-studio {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.header-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.header-mail {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.header-tel {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
